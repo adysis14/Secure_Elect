@@ -1,5 +1,5 @@
 # Secure-Elect 🤝🏻
-BlockVote is a blockchain based election system which lets voters elect candidate in an election.
+SecureElect is a blockchain based election system which lets voters elect candidate in an election.
 
 
 ### Technology Stack 🎨
