@@ -1,4 +1,4 @@
-# E-Voting-Using-Blockchain 🤝🏻
+# Secure-Elect 🤝🏻
 BlockVote is a blockchain based election system which lets voters elect candidate in an election.
 
 
@@ -11,8 +11,7 @@ BlockVote is a blockchain based election system which lets voters elect candidat
 
 >Make Sure that you've Truffle and Ganache installed
 
-1. Clone the repo: `git clone https://github.com/dhananjay1906/E-Voting-Using-Blockchain`
-2. Navigate to the folder: `cd BlockVote`
-3. Install dependencies: `npm install`
-4. Run server: `npm run dev`
+1. Navigate to the folder: `cd Secure_Elect`
+2. Install dependencies: `npm install`
+3. Run server: `npm run dev`
 
